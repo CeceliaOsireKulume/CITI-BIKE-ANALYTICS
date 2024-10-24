@@ -20,7 +20,5 @@ The Citi Bike analysis is separated into the following folders:
 04. Analysis: Contains the Visualizations used for developing insights
 
 # Visualizations
-All the visualizations and some of the analysis can be found on Tableau Public server - https://public.tableau.com/app/profile/cecelia.osire.kulume/viz/NewYorkCitiBikeAnalytics_17294948168370/NewYorkCitiBikesStor?publish=yes
-
-New York Citi Bike Analytics
+All the visualizations and some of the analysis can be found on Tableau Public server - [New york Citi Bike Analytics](https://public.tableau.com/app/profile/cecelia.osire.kulume/viz/NewYorkCitiBikeAnalytics_17294948168370/NewYorkCitiBikesStor?publish=yes).
 
