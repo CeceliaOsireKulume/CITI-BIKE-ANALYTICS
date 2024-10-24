@@ -9,7 +9,7 @@ The Data Set was taken from Kaggle. The data set contains information about NYC 
 
 ![image](https://github.com/user-attachments/assets/ca34717e-ff9a-4c06-946d-5889592ad1a9)
 
-I also took a NYC Zip-Code GeoJSON from GitHub - NYC Geo JSON.
+I also took a NYC Zip-Code GeoJSON from GitHub - [NYC Geo JSON](mam1612_EC/nyc-zip-code-tabulation-areas-polygons.geojson).
 
 # Folders
 The Citi Bike analysis is separated into the following folders:
